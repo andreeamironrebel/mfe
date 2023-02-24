@@ -2,7 +2,7 @@ import  ReactDOM  from 'react-dom';
 import React from 'react';
 //development and isolation => call mount immediately
 
-//through container export mount fc
+//through container export mount function
 
 import App from './App';
 
